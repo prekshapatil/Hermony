@@ -120,3 +120,4 @@ Hermony uses a work-to-personal time ratio to help users maintain a healthy bala
 ---
 
 **Hermony**: Because ambition shouldn't cost your well-being.
+Check out our demo at https://hermony.vercel.app/
